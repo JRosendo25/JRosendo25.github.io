@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Prueba Pagina</h1>
+<p>A ver que tal</p>
+</body>
+</html>
